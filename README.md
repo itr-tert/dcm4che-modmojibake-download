@@ -19,7 +19,7 @@ dcm4cheコアライブラリの文字化け修正版です。
 
 5.12.0よりも前のバージョンはビルドエラーを直すのが手間で用意してません。
 
-[詳しくはこちら](https://github.com/itr-tert/note/blob/main/2022-01_dcm4che.md)
+[詳しくはこちら](https://itr-tert.github.io/note/2022-01--dcm4che.html)
 
 ## Source Code
 https://github.com/itr-tert/dcm4che  
